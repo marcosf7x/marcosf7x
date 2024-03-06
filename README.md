@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/marcosf7x/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosf7x&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosf7x&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/marcosf7x/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosf7x&layout=compact" />
