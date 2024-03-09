@@ -1,4 +1,4 @@
-<h1>Olá, Marcos Felipe aqui 🖖</h1>
+<h1>🖖 Olá, Marcos Felipe aqui</h1>
 
 <a href="https://github.com/marcosf7x/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosf7x&show_icons=true&theme=buefy" />
@@ -6,6 +6,8 @@
 <a href="https://github.com/marcosf7x/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosf7x&layout=compact" />
 </a>
+
+<h1>⚡ Tecnologias</h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcosf7x-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
