@@ -1,4 +1,4 @@
-<h1>🖖 Olá, Marcos Felipe aqui</h1>
+<h1>🖖 HI, Marcos Felipe aqui</h1>
 <a href="https://github.com/marcosf7x/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosf7x&show_icons=true&theme=buefy" />
 </a>
