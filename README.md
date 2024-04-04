@@ -27,6 +27,18 @@ Backend:
 ![C](https://img.shields.io/badge/-CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Phyton](https://img.shields.io/badge/-Phyton-3776AB?style=flat-square&logo=phyton&logoColor=white)
 
+Database:
+![Mysql]
+![Pgadmin]
+![MongoDB]
+
+Tools:
+![Git]
+![Github]
+
+IDEs:
+![VsCode]
+
 ## 🎮Jogos
 
 Essas são as plataformas que utilizo para jogos:
