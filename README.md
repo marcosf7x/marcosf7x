@@ -45,6 +45,7 @@ Essas são as plataformas que utilizo para jogos:
 
 Games Engines:
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/-Unity-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=Godot&logoColor=black)
 
 Meu site de jogos: ###
