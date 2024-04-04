@@ -22,22 +22,22 @@ Frontend:
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 Backend:
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java5&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![C](https://img.shields.io/badge/-CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Phyton](https://img.shields.io/badge/-Phyton-3776AB?style=flat-square&logo=phyton&logoColor=white)
 
 Database:
-![Mysql]
-![Pgadmin]
-![MongoDB]
+![Mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 Tools:
-![Git]
-![Github]
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=orange)
+![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)
 
 IDEs:
-![VsCode]
+![VsCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🎮Jogos
 
