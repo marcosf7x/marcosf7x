@@ -24,7 +24,7 @@ Frontend:
 Backend:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![C](https://img.shields.io/badge/-CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![CSharp](https://img.shields.io/badge/-CSharp-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![Phyton](https://img.shields.io/badge/-Phyton-3776AB?style=flat-square&logo=phyton&logoColor=white)
 
 Database:
@@ -44,7 +44,7 @@ IDEs:
 Essas são as plataformas que utilizo para jogos:
 
 Games Engines:
-![Unity](https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=white)
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=Godot&logoColor=black)
 
 Meu site de jogos: ###
