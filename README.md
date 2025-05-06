@@ -41,7 +41,7 @@ IDEs:
 
 ## 🎮Jogos
 
-Também me aventuro no universo da proogramação para jogos indie (GameDev).
+Também me aventuro no universo da proogramação de jogos indie (GameDev).
 
 Essas são as plataformas que utilizo para jogos:
 
