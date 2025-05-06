@@ -1,5 +1,5 @@
 ## 🖖 Olá, Marcos Felipe aqui
-Também me aventuro no universo da proogramação para jogos (GameDev).
+Eh... What's Up Doc?
 
 ## 📈 Stats
 <a href="https://github.com/marcosf7x/github-readme-stats">
@@ -40,6 +40,8 @@ IDEs:
 ![VsCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 🎮Jogos
+
+Também me aventuro no universo da proogramação para jogos (GameDev).
 
 Essas são as plataformas que utilizo para jogos:
 
